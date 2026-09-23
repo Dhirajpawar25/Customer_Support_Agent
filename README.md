@@ -160,6 +160,10 @@ src/
 8. Implement more sophisticated retrieval (hybrid search, reranking)
 ## Demo
 
+### Video Demo
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/12w-53k-qkc4tndZIzFjPp5peNbPg9LYL/view?usp=sharing)
+
 ### Knowledge Base Question with Citations
 ```
 YOU: How long does a regular customer have to return an unused backpack?
